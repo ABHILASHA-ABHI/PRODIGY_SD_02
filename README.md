@@ -1,4 +1,6 @@
 # PRODIGY_SD_02
+Build a program that generates a random number and challenges the user to guess it. The program should prompt the user to input their guess, compare it to the generated number, and provide feedback if the guess is too high or too low. It should continue until the user correctly guesses the number and then display the number of attempts it took to win the game.
+
 ## Project Overview
 
 The "Guess the Number Game" is a simple Java program designed to engage users in a number guessing challenge. The program generates a random number between 1 and 100, and the user's task is to guess this number. The program provides feedback on whether the user's guess is too high or too low, and it continues to prompt for guesses until the correct number is guessed. Upon guessing correctly, the program reveals the number of attempts taken.
